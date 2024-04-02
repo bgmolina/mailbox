@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-gray-900 font-roboto;
+  }
+  /*excluye a [main] y [#modal] del padding*/
+  body #app > :not(main, #modal, #modalMenu) {
+    @apply px-5;
+  }
+}
