@@ -8,7 +8,8 @@ on:
       - testing
       - main
     paths-ignore:
-      - '**/*.md'
+      - '*.md' # Ignore changes to files in the repository root
+      - '**/*.md' # Ignore changes to files in any subdirectory
 
 env:
   TAG: ''
