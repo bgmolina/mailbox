@@ -46,7 +46,7 @@ Desarrollado en figma bajo diseño atomico:
 📱 Prototipo Desktop/Mobile: 👉 [`URL`](https://www.figma.com/community/file/1175079925335508354)  
 
 ## Link proyecto 🌐
-👉 [`URL`](https://bmolina1993.github.io/mailbox)
+👉 [`URL`](https://testing-mailbox.bgma.tech)
 
 ### Demo 🎬
 <img width="250" src="./demo/demo.mobile.gif"/>  

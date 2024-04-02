@@ -18,7 +18,7 @@ spec:
         app: mailbox
     spec:
       containers:
-      - image: bgmolina/mailbox:latest
+      - image: bgmolina/mailbox:testing
         name: mailbox
         resources:
           requests:
